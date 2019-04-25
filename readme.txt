@@ -1,23 +1,23 @@
-=== Paid Memberships Pro: Pay by Check Add On ===
-Contributors: strangerstudios, eighty20results
-Tags: pmpro, paid memberships pro, members, memberships, check, cheque, payments, offline
+=== Paid Memberships Pro: Pay by Bank Transfer Add On ===
+Contributors: Farid Moussaoui
+Tags: pmpro, paid memberships pro, members, memberships, bank transfer, payments, offline
 Requires at least: 4
 Tested up to: 5.0.3
-Stable tag: .8
+Stable tag: .1
 
-A collection of customizations useful when allowing users to pay by check for Paid Memberships Pro levels.
+A collection of customizations useful when allowing users to pay by bank transfer for Paid Memberships Pro levels.
 
 == Description ==
 
-Adds a radio option to checkout to pay by credit card or PayPal now or pay by check.
+Adds a radio option to checkout to pay by credit card or PayPal now or pay by bank transfer.
 
-Users who choose to pay by check will have their order to "pending" status.
+Users who choose to pay by bank transfer will have their order to "pending" status.
 
 Users with a pending order will not have access based on their level.
 
-After you receive and cash the check, you can edit the order to change the status to "success", which will give the user access.
+After you receive the money, you can edit the order to change the status to "success", which will give the user access.
 
-An email is sent to the user RE the status change.
+An email is sent to the user about the status change.
 
 == Installation ==
 
